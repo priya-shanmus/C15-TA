@@ -90,6 +90,8 @@ function spawnObstacles(){
       case 4: obstacle.addImage(obstacle4);
               break;
       case 5: obstacle.addImage(obstacle5);
+        
+        
               break;
       case 6: obstacle.addImage(obstacle6);
               break;
